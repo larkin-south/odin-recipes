@@ -19,3 +19,9 @@ li {
     border-radius: 5px;
     padding: 5px;
 }
+
+.recipes {
+    display: inline-block;
+    margin: 0px auto;
+    padding: 5px;
+}
