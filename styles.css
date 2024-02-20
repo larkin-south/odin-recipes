@@ -22,6 +22,7 @@ li {
 
 .recipes {
     display: inline-block;
-    margin: 0px auto;
-    padding: 5px;
+    border: solid;
+    margin: 0px 10px;
+    padding: 10px;
 }
