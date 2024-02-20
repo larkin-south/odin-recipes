@@ -9,3 +9,13 @@ h1 {
 li {
     font-weight: bold;
 }
+
+.main_title{
+    margin-top: 5px;
+}
+
+.container {
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding: 5px;
+}
