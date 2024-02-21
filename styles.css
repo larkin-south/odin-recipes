@@ -2,10 +2,6 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-h1 {
-    text-align: center;
-}
-
 li {
     font-weight: bold;
 }
@@ -18,11 +14,12 @@ li {
     background-color: aquamarine;
     border-radius: 5px;
     padding: 5px;
+    text-align: center;
 }
 
 .recipes {
     display: inline-block;
-    border: solid;
-    margin: 0px 10px;
+    border: solid 3px;
+    margin: auto;
     padding: 10px;
 }
